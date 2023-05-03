@@ -1,0 +1,16 @@
+{
+  "name": "ideal-sport-bootstrap5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w sass/main.scss css/main.min.css --style compressed"
+  },
+  "author": "Jana Baranová",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
+    "sass": "^1.62.1"
+  }
+}
